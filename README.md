@@ -1,3 +1,11 @@
+<img width="1608" height="854" alt="image" src="https://github.com/user-attachments/assets/8fc27114-7573-44a8-9412-fa2db937bf01" />
+
+
+<img width="1215" height="673" alt="image" src="https://github.com/user-attachments/assets/bcb8f355-c895-427d-bd8b-621379b66264" />
+
+
+
+
 # 🤖 Chatbot Interativo com PDFs
 
 ## 📌 Visão Geral
