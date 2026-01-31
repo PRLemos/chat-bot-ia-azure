@@ -102,8 +102,7 @@
       botMsg.textContent = "🔎 Buscando resposta nos PDFs...";
       chatBox.appendChild(botMsg);
 
-      // Aqui você faria uma chamada ao backend (API/Azure Function)
-      // Exemplo fictício:
+      // Exemplo fictício de resposta (substituir por chamada ao backend)
       setTimeout(() => {
         botMsg.textContent = "Resposta baseada no conteúdo dos PDFs: " + message;
       }, 1000);
@@ -114,4 +113,5 @@
   </script>
 </body>
 </html>
+
 
